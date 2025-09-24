@@ -12,3 +12,6 @@ navbar:
       href: files/jmp.pdf
     - text: "Publications"
       href: publications.html
+output:
+  html_document:
+    theme: lumen

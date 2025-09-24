@@ -13,5 +13,4 @@ navbar:
     - text: "Publications"
       href: publications.html
 output:
-  html_document:
-    theme: lumen
+  html_document

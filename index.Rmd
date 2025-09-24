@@ -1,0 +1,19 @@
+
+
+
+```{r, out.width = '30%', fig.align="center", echo = FALSE}
+library(knitr)
+include_graphics("images/soham.jpeg")
+```
+
+
+I am a PhD Candidate in Health Economics placed in the Department of Public Health Sciences at the University of Chicago.
+
+I use quasi-experimental methods with administrative claims data and qualitative research methods to inform Medicaid policy for vulnerable populations in the United States. 
+
+I will be on the academic job-market for 2025-26.
+
+
+Contact:  [Email](sohams@uchicago.edu), [LinkedIn](https://www.linkedin.com/in/sohamsinha1/)
+
+Links: [Chicago](https://pbhs.uchicago.edu/program/students/soham-sinha), [Google Scholar](https://scholar.google.com/citations?user=9ng5ihQAAAAJ&hl=en)

@@ -1,0 +1,14 @@
+# _site.yml
+name: "Soham Sinha"
+output_dir: "."
+navbar:
+  title: "Soham Sinha"
+  right:
+    - text: "BIO"
+      href: about.html
+    - text: "CV"
+      href: files/CV.pdf
+    - text: "Job Market Paper"
+      href: files/jmp.pdf
+    - text: "Publications"
+      href: publications.html

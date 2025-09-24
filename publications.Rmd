@@ -1,0 +1,28 @@
+### Publications
+
+Cliff BQ, **Sinha S**, Cross D, Hickey, E, Kirschner K and Caskey R. [Prevalence of Complex Medical Conditions Among Teens and Young Adults in Medicaid: National and State Estimates.](https://www.sciencedirect.com/science/article/pii/S1054139X25001570) *Journal of the Adolescent Health 2025* [Link]
+
+Pollack HA, Mackiewicz M and **Sinha S**. [Invisible and Overlooked (Again): Older Adults, Ageism, and Substance Misuse.](https://www.milbank.org/quarterly/opinions/invisible-and-overlooked-again-older-adults-ageism-and-substance-misuse/)  *Milbank Quarterly* Opinion
+
+**Sinha S**, Mukamel DB, Saliba D, Ladd H and Konetzka RT. [New Dimensions of Staffing Patterns and Nursing Home Quality: Comparing Staffing Instability to Staffing Turnover.](https://www.jamda.com/article/S1525-8610(23)00398-5/fulltext)  *Journal of the American Medical Directors Association 2023* 
+
+**Sinha S** and Konetzka RT. [Association of COVID-19 Vaccination Rates of Staffing and COVID- 19 Illness and Death Among Residents and Staffing in US Nursing Homes.](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2799964) *JAMA Network Open 2022* 
+
+Chatterjee P, **Sinha S**, Reszczynski O, Amin A and Schpero WL. [Variation and Changes in the Targeting of Disproportionate Share Hospital (DSH) Payments to U.S. Hospitals](https://www.healthaffairs.org/doi/10.1377/hlthaff.2022.00153) *Health Affairs 2022* 
+
+Sharaf RN, **Sinha S**, Li Z, Bar-Masiah A, and Ladabaum U. [COVID-19 Pandemic-related colorectal cancer screening delays impact unscreened older adults the most, but mitigation strategies exist](https://www.gastrojournal.org/article/S0016-5085(22)00961-1/fulltext) . *Gastroenterology 2022* 
+
+### Works in Progress
+
+**Sinha S** and Pollack HA. The Effect of Repealing Prior Authorization for Prescribing Buprenorphine on Buprenorphine Access and Health Care Utilization among Medicaid beneficiaries with Opioid Use Disorders. 
+
+Cliff BQ, **Sinha S**, Cross D, Hickey, E, Kirschner K and Caskey R. Medicaid Disenrollment Among Young Adults with and without Complex Medical Conditions:  Prevalence and Heterogeneity by Condition and Geography. 
+
+Cliff BQ, **Sinha S**, Cross D, Hickey, E, Kirschner K and Caskey R. Health Care Utilization Among Young Adults with Complex Medical Conditions in Medicaid.
+
+Kirschner K, **Sinha S**, Cross D, Hickey, E,Caskey R and Cliff BQ. Utilization of Long Term Care and Home and Community Based Services Among Young Adults with Complex Medical Conditions in Medicaid. 
+
+**Sinha S**, Polley EC, and Pollack HA. Competing Risks Analysis of Treatment Outcomes among patients referred to outpatient opioid use disorder treatment.
+
+**Sinha S**, Polley EC, and Pollack HA. Using Machine Learning to identify correlates of Treatment Outcomes among patients referred to outpatient opioid use disorder treatment.
+

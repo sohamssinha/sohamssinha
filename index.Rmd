@@ -1,5 +1,9 @@
 
+---
+title: "Soham Sinha MSc"
 
+output: html_document
+---
 
 ```{r, out.width = '30%', fig.align="center", echo = FALSE}
 library(knitr)

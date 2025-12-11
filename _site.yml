@@ -1,6 +1,6 @@
 # _site.yml
-name: "Soham Sinha"
-output_dir: "."
+name: "sohamssinha"
+output_dir: "_site"
 navbar:
   title: "Soham Sinha"
   right:
